@@ -1,0 +1,5 @@
+@reference '../index.css';
+
+.foot{
+    @apply bg-black h-25 text-white justify-center flex items-center p-20 mx-auto;
+}
