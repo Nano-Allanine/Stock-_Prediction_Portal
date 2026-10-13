@@ -1,7 +1,7 @@
 @reference '../index.css';
 
 .hero{
-    @apply  bg-black text-white h-100 items-center p-5;
+    @apply  bg-black pt-40 h-120 text-white h-100 items-center p-5;
 }
 .oner{
     @apply text-2xl text-center;
@@ -9,6 +9,6 @@
 .para{
     @apply w-200 p-5 mx-auto;
 }
-.logii{
-    @apply bg-red-700 justify-center items-center mx-150;
+.logii {
+  @apply bg-red-700 mx-auto block;
 }

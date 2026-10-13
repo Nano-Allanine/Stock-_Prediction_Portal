@@ -1,7 +1,7 @@
 @reference '../index.css';
 
 .navi{
-    @apply flex bg-black justify-between items-center p-10 w-full text-white;
+    @apply fixed flex bg-black justify-between items-center p-10 w-full text-white;
 }
 .list{
     @apply flex  gap-10 items-end;

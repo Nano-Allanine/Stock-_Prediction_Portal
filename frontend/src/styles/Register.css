@@ -1,0 +1,20 @@
+@reference '../index.css';
+
+.shot{
+    @apply container h-160 pt-40 text-white bg-black;
+}
+.tit{
+    @apply  text-center text-2xl pb-4 ;
+}
+.fo{
+    @apply grid p-2 mx-auto  bg-gray-700 justify-center w-120 rounded-2xl;
+}
+.lab{
+@apply text-blue-600 p-2;
+}
+.pt{
+    @apply p-2 border-3 border-blue-600 rounded-2xl;
+}
+.Regi{
+    @apply mt-10 p-6 bg-blue-600 mb-10;
+}
